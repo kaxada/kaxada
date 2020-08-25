@@ -1,5 +1,12 @@
 ### Hi there 👋
 <p  align="center">
+  
+<a href= "http://ekaxada.me/portfolio/"><img src="https://img.icons8.com/fluent-systems-regular/24/000000/domain.png"/></a>
+  
+<a href= "https://www.linkedin.com/in/enock-kasaadha-b09705146/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/EKaxada"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
+<p  align="center">
 <img src="https://github-readme-stats.vercel.app/api/?username=e-Kaxada&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 </p>
 
