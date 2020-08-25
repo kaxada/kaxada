@@ -1,6 +1,10 @@
-<h1 font-size="40px" align="center">
+<h1 align="center">
   Hi. I'm Enock Kasaadha.
 </h1>
+<h2 align="center">
+  A Frontend Developer and UI/UX Designer
+</h2>
+
 <p  align="center"> 
   <a href= "http://ekaxada.me/portfolio/"><img src="https://img.icons8.com/fluent-systems-filled/24/000000/domain.png"/></a> 
   <a href= "https://www.linkedin.com/in/enock-kasaadha-b09705146/"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>
