@@ -1,9 +1,9 @@
 ### Hi there 👋
 <p  align="center"> 
   <a href= "http://ekaxada.me/portfolio/"><img src="https://img.icons8.com/fluent-systems-filled/24/000000/domain.png"/></a> 
-  <a href= "https://www.linkedin.com/in/enock-kasaadha-b09705146/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+  <a href= "https://www.linkedin.com/in/enock-kasaadha-b09705146/"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>
   <a href= "https://dribbble.com/eKaxada"><img src="https://img.icons8.com/fluent-systems-filled/24/000000/dribbble.png"/></a> 
-  <a href= "https://twitter.com/EKaxada"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+  <a href= "https://twitter.com/EKaxada"><img src="https://img.icons8.com/android/24/000000/twitter.png"/></a>
 </p>
 
 <p  align="center">
