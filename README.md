@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1>
+<h1 font-size="40px" align="center">
   Hi. I'm Enock Kasaadha.
 </h1>
 <p  align="center"> 
