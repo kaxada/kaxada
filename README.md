@@ -2,7 +2,7 @@
   Hi. I'm Enock Kasaadha.
 </h1>
 <h2 align="center">
-  A Frontend Developer and UI/UX Designer
+  I am Software Engineer speaking JavaScript
 </h2>
 
 <p  align="center"> 
