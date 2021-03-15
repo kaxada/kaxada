@@ -2,7 +2,7 @@
   Hi. I'm Enock Kasaadha.
 </h1>
 <h2 align="center">
-  I am Software Engineer speaking JavaScript
+  I am a Software Engineer speaking JavaScript
 </h2>
 
 <p  align="center"> 
