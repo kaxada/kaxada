@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi. I'm Enoch Kaxada.
+  Hi. I'm Kaxada.
 </h1>
 <h2 align="center">
   I am a Software Engineer speaking JavaScript and Python. 
